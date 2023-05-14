@@ -8,6 +8,4 @@ Things I learnt->
 4-> Modern UI styling
 5-> Use Of Routers
 
-Output:-
-![Hero Section](../../../Pictures/Screenshots/Screenshot%202023-05-14%20200751.png)
-![cards](../../../Pictures/Screenshots/Screenshot%202023-05-14%20200857.png)
+
